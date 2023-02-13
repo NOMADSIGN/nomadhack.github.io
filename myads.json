@@ -1,0 +1,114 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "ADMOB",
+         "select_backup_ads": "APPLOVIN-D",
+         "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+         "backup_ads_banner": "db4d5e8718b97d78",
+         "backup_ads_intertitial": "518cd97722c60b52",
+         "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+         "open_ads_alien": "1",
+         "switch_open_ads": "1",
+         "interval_intertitial": 5,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_WALLPAPER": "0"
+   },
+   "Contact": [
+      {
+         "id": 1,
+         "title": "Jeon Jeong-guk",
+         "description": "Samples last chat",
+         "image": "http://aliendro.id/uploads/YTAPP/Jeon Jeong-guk.jpg",
+         "videoid": "footbal"
+      },
+      {
+         "id": 2,
+         "title": "Kim Namjoon",
+         "description": "Samples last chat",
+         "image": "http://aliendro.id/uploads/YTAPP/Kim Namjoon.png",
+         "videoid": "flower"
+      },
+      {
+         "id": 3,
+         "title": "Samples last cha",
+         "description": "Samples last chat",
+         "image": "http://aliendro.id/uploads/YTAPP/Kim Seok Jin.jpg",
+         "videoid": "footbal"
+      },
+      {
+         "id": 4,
+         "title": "Kim Seok Jin",
+         "description": "Reskin Aliendroid",
+         "image": "file:///android_asset/Kim Seok Jin.jpg",
+         "videoid": "flower3"
+      },
+      {
+         "id": 5,
+         "title": "Kim Tae Hyung",
+         "description": "Samples last chat",
+         "image": "http://aliendro.id/uploads/YTAPP/Kim Tae Hyung.jpg",
+         "videoid": "http://hexa.web.id/footbal.mov"
+      },
+      {
+         "id": 6,
+         "title": "Min Yoon Gi",
+         "description": "Samples last chat",
+         "image": "http://aliendro.id/uploads/YTAPP/Min Yoon Gi.jpg",
+         "videoid": "http://hexa.web.id/footbal.mov"
+      },
+      {
+         "id": 7,
+         "title": "Park Ji Min",
+         "description": "Samples last chat",
+         "image": "http://aliendro.id/uploads/YTAPP/Park Ji Min.jpg",
+         "videoid": "http://hexa.web.id/footbal.mov"
+      }
+   ],
+   "Wallpaper": [
+      {
+         "id": 1,
+         "title": "Waterfall",
+         "image": "https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      },
+      {
+         "id": 2,
+         "title": "River",
+         "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      },
+      {
+         "id": 3,
+         "title": "Mountain",
+         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      },
+      {
+         "id": 4,
+         "title": "Cute Cat",
+         "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      },
+      {
+         "id": 5,
+         "title": "Dog",
+         "image": "https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      },
+      {
+         "id": 6,
+         "title": "Super Car",
+         "image": "file:///android_asset/alienboot/image/car.jpg"
+      }
+   ]
+}
