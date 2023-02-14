@@ -2,7 +2,7 @@
    "Ads": [
       {
          "select_main_ads": "ADMOB",
-         "select_backup_ads": "APPLOVIN-D",
+         "select_backup_ads": "APPLOVIN-DDDDD",
          "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xxx",
          "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712xxx",
          "backup_ads_banner": "db4d5e8718b97d78xxx",
@@ -33,8 +33,8 @@
          "id": 1,
          "title": "Jeon Jeong-guk",
          "description": "Samples last chat",
-         "image": "http://aliendro.id/uploads/YTAPP/Jeon Jeong-guk.jpg",
-         "videoid": "footbal"
+         "image": "https://ia904707.us.archive.org/5/items/Co.20231/co.2023%20%281%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/S1%20%281%29.mp4"
       },
       {
          "id": 2,
