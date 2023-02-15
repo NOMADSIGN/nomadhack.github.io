@@ -29,7 +29,7 @@
       "ON_OFF_WALLPAPER": "1"
    },
    "Contact": [
-          "id": 1,
+       { "id": 1,
          "title": "Sonia",
          "description": "Fun",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%281%29.jpg",
