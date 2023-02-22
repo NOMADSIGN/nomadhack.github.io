@@ -29,7 +29,19 @@
       "ON_OFF_WALLPAPER": "1"
    },
    "Contact": [
-       { "id": 1,
+      { "id": 1,
+         "title": "Sonarita",
+         "description": "Fun Video Call",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2813%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2813%29.mp4"
+      },
+      { "id": 1,
+         "title": "Kritika",
+         "description": "Fun Video Call",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2812%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2812%29.mp4"
+      },
+      { "id": 1,
          "title": "Clara",
          "description": "Hapy Fun Video Call",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2811%29.jpg",
