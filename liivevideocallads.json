@@ -2,11 +2,11 @@
    "Ads": [
       {
          "select_main_ads": "ADMOB",
-         "select_backup_ads": "APPLOVIN-D",
+         "select_backup_ads": "FACEBOOK",
          "main_ads_banner": "ca-app-pub-8739824499567428/1277530832",
          "main_ads_intertitial": "ca-app-pub-8739824499567428/7395667880",
-         "backup_ads_banner": "ab90c0dd7e383ee4",
-         "backup_ads_intertitial": "a27210e9ae8a960e",
+         "backup_ads_banner": "1342839769834232_1343703023081240",
+         "backup_ads_intertitial": "1342839769834232_1343703133081229",
          "open_ads_admob": "ca-app-pub-8739824499567428/3456422873",
          "open_ads_alien": "1",
          "switch_open_ads": "1",
@@ -14,10 +14,10 @@
          "initialize_sdk": "",
          "initialize_sdk_backup_ads": "",
          "high_paying_keyword_1": "Insurance",
-         "high_paying_keyword_2": "Asuransi",
-         "high_paying_keyword_3": "Onlyfans",
-         "high_paying_keyword_4": "Sexy Video Call",
-         "high_paying_keyword_5": "Sexy Chat",
+         "high_paying_keyword_2": "Loans",
+         "high_paying_keyword_3": "Mortgage",
+         "high_paying_keyword_4": "Attorney",
+         "high_paying_keyword_5": "Credit",
          "status_app": "0",
          "link_redirect": "https://"
       }
