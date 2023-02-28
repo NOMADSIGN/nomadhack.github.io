@@ -1,0 +1,191 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "FACEBOOKKK",
+         "select_backup_ads": "ADMOBBB",
+         "main_ads_banner": "",
+         "main_ads_intertitial": "",
+         "backup_ads_banner": "",
+         "backup_ads_intertitial": "",
+         "open_ads_admob": "",
+         "open_ads_alien": "1",
+         "switch_open_ads": "1",
+         "interval_intertitial": 3,
+         "initialize_sdk": "",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "Insurance",
+         "high_paying_keyword_2": "Loans",
+         "high_paying_keyword_3": "Mortgage",
+         "high_paying_keyword_4": "Attorney",
+         "high_paying_keyword_5": "Credit",
+         "status_app": "0",
+         "link_redirect": "https://"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_WALLPAPER": "1"
+   },
+      "Contact": [
+      { "id": 1,
+         "title": "Alika",
+         "description": "Video Call",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2820%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2820%29.mp4"
+      },
+	  { "id": 2,
+         "title": "Alice",
+         "description": "Video Call",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2819%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2819%29.mp4"
+      },
+	  { "id": 3,
+         "title": "Agatha",
+         "description": "Love",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2818%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2818%29.mp4"
+      },
+	  { "id": 4,
+         "title": "Ainsley",
+         "description": "Smart Girl",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2817%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2817%29.mp4"
+      },
+	  { "id": 5,
+         "title": "Adaline ",
+         "description": "Sport",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2816%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2816%29.mp4"
+      },
+	  { "id": 6,
+         "title": "Amanda",
+         "description": "Game",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2815%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2815%29.mp4"
+      },
+	  { "id": 7,
+         "title": "Amber",
+         "description": "Big As",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2814%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2814%29.mp4"
+      },
+	  { "id": 8,
+         "title": "Sonarita",
+         "description": "Fun Video Call",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2813%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2813%29.mp4"
+      },
+      { "id": 9,
+         "title": "Kritika",
+         "description": "Fun Video Call",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2812%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2812%29.mp4"
+      },
+      { "id": 10,
+         "title": "Clara",
+         "description": "Hapy Fun Video Call",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2811%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2811%29.mp4"
+      },
+      { "id": 11,
+         "title": "Alexa",
+         "description": "Mood",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%288%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%288%29.mp4"
+      },
+      { "id": 12,
+         "title": "Jane",
+         "description": "Happy N Fun",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%289%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%289%29.mp4"
+      },
+      { "id": 13,
+         "title": "Veronica",
+         "description": "Fun",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2810%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2810%29.mp4"
+      },
+      { "id": 14,
+         "title": "Sonia",
+         "description": "Fun",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%281%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%281%29.mp4"
+      },
+      {
+         "id": 15,
+         "title": "Margaret",
+         "description": "Cute",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%282%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%282%29.mp4"
+      },
+      {
+         "id": 16,
+         "title": "Violet",
+         "description": "Chat and Video Call",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%283%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%283%29.mp4"
+      },
+      {
+         "id": 17,
+         "title": "Ana",
+         "description": "Happy",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%284%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%284%29.mp4"
+      },
+      {
+         "id": 18,
+         "title": "Marshall",
+         "description": "Xtreme",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%285%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%285%29.mp4"
+      },
+      {
+         "id": 19,
+         "title": "Missha",
+         "description": "Love",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%286%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%286%29.mp4"
+      },
+      {
+         "id": 20,
+         "title": "Vania",
+         "description": "Big",
+         "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%287%29.jpg",
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%287%29.mp4"
+      }
+   ],
+   "Wallpaper": [
+      {
+         "id": 1,
+         "title": "Waterfall",
+         "image": "https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      },
+      {
+         "id": 2,
+         "title": "River",
+         "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      },
+      {
+         "id": 3,
+         "title": "Mountain",
+         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      },
+      {
+         "id": 4,
+         "title": "Cute Cat",
+         "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      },
+      {
+         "id": 5,
+         "title": "Dog",
+         "image": "https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      },
+      {
+         "id": 6,
+         "title": "Super Car",
+         "image": "file:///android_asset/alienboot/image/car.jpg"
+      }
+   ]
+}
