@@ -1,13 +1,13 @@
 {
    "Ads": [
       {
-         "select_main_ads": "FACEBOOKKK",
-         "select_backup_ads": "ADMOBBB",
-         "main_ads_banner": "",
-         "main_ads_intertitial": "",
-         "backup_ads_banner": "",
-         "backup_ads_intertitial": "",
-         "open_ads_admob": "",
+         "select_main_ads": "FACEBOOK",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "499815502353501_499815779020140",
+         "main_ads_intertitial": "499815502353501_499815855686799",
+         "backup_ads_banner": "ca-app-pub-8739824499567428/9344992030",
+         "backup_ads_intertitial": "ca-app-pub-8739824499567428/7927968587",
+         "open_ads_admob": "ca-app-pub-8739824499567428/8758938171",
          "open_ads_alien": "1",
          "switch_open_ads": "1",
          "interval_intertitial": 3,
@@ -33,127 +33,127 @@
          "title": "Alika",
          "description": "Video Call",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2820%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2820%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2820%29.mp4"
       },
 	  { "id": 2,
          "title": "Alice",
          "description": "Video Call",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2819%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2819%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2819%29.mp4"
       },
 	  { "id": 3,
          "title": "Agatha",
          "description": "Love",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2818%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2818%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2818%29.mp4"
       },
 	  { "id": 4,
          "title": "Ainsley",
          "description": "Smart Girl",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2817%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2817%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2817%29.mp4"
       },
 	  { "id": 5,
          "title": "Adaline ",
          "description": "Sport",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2816%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2816%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2816%29.mp4"
       },
 	  { "id": 6,
          "title": "Amanda",
          "description": "Game",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2815%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2815%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2815%29.mp4"
       },
 	  { "id": 7,
          "title": "Amber",
          "description": "Big As",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2814%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2814%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2814%29.mp4"
       },
 	  { "id": 8,
          "title": "Sonarita",
          "description": "Fun Video Call",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2813%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2813%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2813%29.mp4"
       },
       { "id": 9,
          "title": "Kritika",
          "description": "Fun Video Call",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2812%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2812%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2812%29.mp4"
       },
       { "id": 10,
          "title": "Clara",
          "description": "Hapy Fun Video Call",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2811%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2811%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2811%29.mp4"
       },
       { "id": 11,
          "title": "Alexa",
          "description": "Mood",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%288%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%288%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%288%29.mp4"
       },
       { "id": 12,
          "title": "Jane",
          "description": "Happy N Fun",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%289%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%289%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%289%29.mp4"
       },
       { "id": 13,
          "title": "Veronica",
          "description": "Fun",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%2810%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%2810%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%2810%29.mp4"
       },
       { "id": 14,
          "title": "Sonia",
          "description": "Fun",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%281%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%281%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%281%29.mp4"
       },
       {
          "id": 15,
          "title": "Margaret",
          "description": "Cute",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%282%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%282%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%282%29.mp4"
       },
       {
          "id": 16,
          "title": "Violet",
          "description": "Chat and Video Call",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%283%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%283%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%283%29.mp4"
       },
       {
          "id": 17,
          "title": "Ana",
          "description": "Happy",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%284%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%284%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%284%29.mp4"
       },
       {
          "id": 18,
          "title": "Marshall",
          "description": "Xtreme",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%285%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%285%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%285%29.mp4"
       },
       {
          "id": 19,
          "title": "Missha",
          "description": "Love",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%286%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%286%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%286%29.mp4"
       },
       {
          "id": 20,
          "title": "Vania",
          "description": "Big",
          "image": "https://ia904701.us.archive.org/10/items/cd1.1/avt1%20%287%29.jpg",
-         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1XXX%20%287%29.mp4"
+         "videoid": "https://ia904701.us.archive.org/10/items/cd1.1/vd1%20%287%29.mp4"
       }
    ],
    "Wallpaper": [
