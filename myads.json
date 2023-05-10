@@ -1,13 +1,13 @@
 {
    "Ads": [
       {
-         "select_main_ads": "FACEBOOK",
-         "select_backup_ads": "ADMOB",
-         "main_ads_banner": "1926097664397504_1927042710969666",
-         "main_ads_intertitial": "1926097664397504_1927042760969661",
-         "backup_ads_banner": "ca-app-pub-8739824499567428/5335840123",
-         "backup_ads_intertitial": "ca-app-pub-8739824499567428/3567732383",
-         "open_ads_admob": "ca-app-pub-8739824499567428/6162106138",
+         "select_main_ads": "FACEBOOKKK",
+         "select_backup_ads": "ADMOBBB",
+         "main_ads_banner": "",
+         "main_ads_intertitial": "",
+         "backup_ads_banner": "",
+         "backup_ads_intertitial": "",
+         "open_ads_admob": "",
          "open_ads_alien": "1",
          "switch_open_ads": "1",
          "interval_intertitial": 3,
@@ -18,8 +18,8 @@
          "high_paying_keyword_3": "Mortgage",
          "high_paying_keyword_4": "Attorney",
          "high_paying_keyword_5": "Credit",
-         "status_app": "0",
-         "link_redirect": "https://"
+         "status_app": "1",
+         "link_redirect": "https://https://play.google.com/store/apps/details?id=com.livevideocall.sexylive&gl=BH"
       }
    ],
    "Setting": {
