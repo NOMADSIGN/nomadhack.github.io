@@ -13,11 +13,11 @@
          "interval_intertitial": 3,
          "initialize_sdk": "",
          "initialize_sdk_backup_ads": "",
-         "high_paying_keyword_1": "Insurance",
-         "high_paying_keyword_2": "Loans",
-         "high_paying_keyword_3": "Mortgage",
-         "high_paying_keyword_4": "Attorney",
-         "high_paying_keyword_5": "Credit",
+      	 "high_paying_keyword_1": "Automotive",
+         "high_paying_keyword_2": "Beer & Wine",
+         "high_paying_keyword_3": "Blogging",
+         "high_paying_keyword_4": "Dating & Relationship",
+         "high_paying_keyword_5": "eCommerce",
          "status_app": "0",
          "link_redirect": "https://"
       }
